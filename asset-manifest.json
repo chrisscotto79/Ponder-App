@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PonderMain.github.io/static/css/main.aecdac67.css",
-    "main.js": "/PonderMain.github.io/static/js/main.758575a9.js",
-    "index.html": "/PonderMain.github.io/index.html",
-    "main.aecdac67.css.map": "/PonderMain.github.io/static/css/main.aecdac67.css.map",
-    "main.758575a9.js.map": "/PonderMain.github.io/static/js/main.758575a9.js.map"
+    "main.css": "/Ponder-App/static/css/main.aecdac67.css",
+    "main.js": "/Ponder-App/static/js/main.758575a9.js",
+    "index.html": "/Ponder-App/index.html",
+    "main.aecdac67.css.map": "/Ponder-App/static/css/main.aecdac67.css.map",
+    "main.758575a9.js.map": "/Ponder-App/static/js/main.758575a9.js.map"
   },
   "entrypoints": [
     "static/css/main.aecdac67.css",
