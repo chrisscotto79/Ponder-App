@@ -1,7 +1,7 @@
 {
   "name": "ponder",
   "version": "0.1.0",
-  "homepage": "http://chrisscotto79.github.io/PonderMain.github.io",
+  "homepage": "https://chrisscotto79.github.io/Ponder-App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
